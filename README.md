@@ -2,6 +2,7 @@
 [![Build Status][travis-badge]][travis-badge-url]
 
 This is a fork of the angular2-quickstart extending it to use grunt and contains less as css preprocessor.
+Also removed the deprecated router.
 
 Quickstart:
 
