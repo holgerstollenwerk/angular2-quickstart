@@ -9,6 +9,8 @@ Quickstart:
 - npm install
 - npm start (runs grunt watch and lite server)
 
+**Feel free to improve the quickstart with pull requests**
+
 ## General
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
