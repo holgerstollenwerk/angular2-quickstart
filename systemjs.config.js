@@ -8,6 +8,9 @@
   var map = {
     'app':                        'app', // 'dist',
 
+    'bootstrap': '//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js',
+    'jquery': '//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js',
+
     '@angular':                   'node_modules/@angular',
     'angular2-in-memory-web-api': 'node_modules/angular2-in-memory-web-api',
     'rxjs':                       'node_modules/rxjs'
@@ -29,7 +32,6 @@
     'platform-browser',
     'platform-browser-dynamic',
     'router',
-    'router-deprecated',
     'upgrade',
   ];
 
